@@ -1,0 +1,116 @@
+body {
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+div#header {
+    background-color: #669999;
+    color: white;
+    font-family: Apple Chancery;
+    font-size: 200%;
+}
+
+#navigationBar {
+    background-color: #669999;
+    border: none;
+}
+#paragraphs h4{
+    font-family:"Century Gothic";
+    font-size: 200%;
+}
+#paragraphs-objectives h4{
+    font-family:"Century Gothic";
+    font-size: 200%;
+}
+#paragraphs-who h4{
+    font-family:"Century Gothic";
+    font-size: 200%;
+}
+
+h3{
+    font-family: "Bodoni 72 Smallcaps";
+    font-size: 250%;
+
+}
+h{
+background-color: #ece1e6;
+ font-family: "Bodoni 72 Smallcaps";
+    font-size: 230%;
+
+}
+#navigationBar a {
+    color: #334448;
+    font-family: Century;
+}
+
+#navigationBar a:hover {
+    color: #ffffff;
+}
+
+.jumbotron {
+    margin: 0;
+}
+
+.navbar {
+    margin: 10;
+}
+
+/*bootstrap burger menu + icon*/
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #669999;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: #669999;
+    border-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle:focus {
+    background-color: #669999;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #669999;
+}
+
+#paragraphs{
+    float: left;
+    width: 80%;
+}
+#pic{
+    float: right;
+    width: 20%;
+}
+.center{
+    text-align: center;
+}
+
+ol{
+line-height: 1.5cm;
+    font-size: 110%;
+    font-weight: bold;
+
+}
+h4
+{
+font-weight: bold;
+background-color: #ece1e6;
+}
+ul
+{
+line-height: 1.5cm;
+    font-size: 110%;
+    font-weight: bold;
+}
+.footer, .footer p {
+    background-color: #ece1e6;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
